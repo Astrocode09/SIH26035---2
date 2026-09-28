@@ -1,0 +1,6 @@
+{
+  "name": "ManoSetu-NAWI Metrology OS",
+  "description": "Statutory Non-Automatic Weighing Instruments (NAWI) automated verification engine, OIML R-76 test suite, Form VIII certificate generator and national surveillance grid for SIH 2026 Problem SIH26035 (Ministry of Consumer Affairs, Food & Public Distribution).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
